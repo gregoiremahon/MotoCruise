@@ -25,7 +25,7 @@ MotoCruise utilise un mécanisme simple de came et ressort pour maintenir l'acc�
 2. Imprimez les pièces avec une imprimante 3D en utilisant du filament PLA (recommandé).
 3. Suivez les instructions d'assemblage dans la section Instructions d'assemblage ci-dessous pour monter le régulateur sur votre moto.
 
-## Instructions d'assemblage
+## Instructions-d'assemblage
 
 ### Matériel nécessaire
 
@@ -105,7 +105,7 @@ Merci à tous les contributeurs et à la communauté de motards pour leur soutie
 
 ## Liens utiles
 
-- [Télécharger les fichiers STL](#https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements/MotoCruise_V04.stl)
-- [Accéder aux fichiers OnShape](#https://cad.onshape.com/documents/cf4fc29ffd6a06213f58177e/w/e59d76d9d9155c883bdf8b41/e/d3f54cef81187506885571a0?renderMode=0&uiState=6675471501c11123e0862a01)
-- [Voir les instructions d'assemblage](#Instructions d'assemblage)
+- [Télécharger les fichiers STL](https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements/MotoCruise_V04.stl)
+- [Accéder aux fichiers OnShape](https://cad.onshape.com/documents/cf4fc29ffd6a06213f58177e/w/e59d76d9d9155c883bdf8b41/e/d3f54cef81187506885571a0?renderMode=0&uiState=6675471501c11123e0862a01)
+- [Voir les instructions d'assemblage](#Instructions-d'assemblage)
 - [Contribuer au projet](#Contribution)
