@@ -21,18 +21,18 @@ MotoCruise utilise un mécanisme simple de came et ressort pour maintenir l'acc�
 
 ## Installation
 
-1. Téléchargez les fichiers STL depuis la section [Téléchargements](#).
-2. Imprimez les pièces avec une imprimante 3D en utilisant du filament PolyFlex et PLA.
-3. Suivez les instructions d'assemblage dans la section [Instructions d'assemblage](#) pour monter le régulateur sur votre moto.
+1. Téléchargez le fichier STL depuis la section [Téléchargements](https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements).
+2. Imprimez les pièces avec une imprimante 3D en utilisant du filament PLA (recommandé).
+3. Suivez les instructions d'assemblage dans la section Instructions d'assemblage ci-dessous pour monter le régulateur sur votre moto.
 
 ## Instructions d'assemblage
-
-Pour assembler et installer votre régulateur MotoCruise, suivez ces étapes simples. Assurez-vous de disposer de tous les outils et pièces nécessaires avant de commencer.
 
 ### Matériel nécessaire
 
 - **Vis** : Diamètre 4 mm, tête ronde de diamètre 7,5 mm environ.
 - **Boulon hexagonal** : Diamètre 7 mm.
+
+Pour assembler et installer votre régulateur MotoCruise, suivez ces étapes simples :
 
 ### Étapes d'assemblage
 
@@ -78,6 +78,8 @@ MotoCruise a été conçu avec OnShape pour une flexibilité et une précision o
 
 Nous croyons en l'amélioration continue à travers la collaboration. Voici comment vous pouvez contribuer :
 
+Le projet OnShape est éditable en suivant [le lien suivant](https://cad.onshape.com/documents/cf4fc29ffd6a06213f58177e/w/e59d76d9d9155c883bdf8b41/e/d3f54cef81187506885571a0?renderMode=0&uiState=6675471501c11123e0862a01).
+
 1. **Forker le dépôt** : Créez votre propre copie du projet pour y apporter des modifications.
 2. **Soumettre des pull requests** : Proposez vos modifications et améliorations pour intégration dans le projet principal.
 3. **Signaler des bugs** : Utilisez la section [Issues] pour signaler des problèmes ou des suggestions d'amélioration.
@@ -103,7 +105,7 @@ Merci à tous les contributeurs et à la communauté de motards pour leur soutie
 
 ## Liens utiles
 
-- [Télécharger les fichiers STL](#)
-- [Accéder aux fichiers OnShape](#)
-- [Voir les instructions d'assemblage](#)
-- [Contribuer au projet](#)
+- [Télécharger les fichiers STL](#https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements/MotoCruise_V04.stl)
+- [Accéder aux fichiers OnShape](#https://cad.onshape.com/documents/cf4fc29ffd6a06213f58177e/w/e59d76d9d9155c883bdf8b41/e/d3f54cef81187506885571a0?renderMode=0&uiState=6675471501c11123e0862a01)
+- [Voir les instructions d'assemblage](#Instructions d'assemblage)
+- [Contribuer au projet](#Contribution)
