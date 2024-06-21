@@ -66,7 +66,7 @@ En suivant ces instructions, vous devriez pouvoir installer et utiliser votre r�
 
 ## Conception
 
-MotoCruise a été conçu avec OnShape pour une flexibilité et une précision optimales. Vous pouvez accéder aux fichiers de conception OnShape [ici](#) pour effectuer des modifications ou des adaptations selon vos besoins.
+MotoCruise a été conçu avec OnShape pour une flexibilité et une précision optimales. Vous pouvez accéder aux fichiers de conception OnShape [ici](https://cad.onshape.com/documents/cf4fc29ffd6a06213f58177e/w/e59d76d9d9155c883bdf8b41/e/d3f54cef81187506885571a0?renderMode=0&uiState=6675471501c11123e0862a01) pour effectuer des modifications ou des adaptations selon vos besoins.
 
 ## Schémas et Images
 
