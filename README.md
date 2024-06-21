@@ -2,7 +2,8 @@
 
 ## Description
 
-MotoCruise est un régulateur d'accélérateur de moto universel, conçu pour être simple à imprimer et à installer. Ce projet open source vise à offrir aux motards une solution pratique pour maintenir une vitesse constante sur de longues distances, réduisant ainsi la fatigue. Conçu avec OnShape, MotoCruise est facilement modifiable et adaptable pour différents modèles de motos. Nous invitons la communauté à imprimer leur propre régulateur en y apportant des modifications ou en le personnalisant, à partager leurs améliorations et à contribuer à ce projet collaboratif.
+MotoCruise est un régulateur d'accélérateur de moto universel, conçu pour être simple à imprimer et à installer. Ce projet open source vise à offrir aux motards une solution pratique pour maintenir une vitesse constante sur de longues distances, réduisant ainsi la fatigue. Conçu avec OnShape, MotoCruise est facilement modifiable et adaptable pour différents modèles de motos. Nous invitons la communauté à imprimer leur propre régulateur en y apportant des modifications ou en le personnalisant, à partager leurs améliorations et à contribuer à ce projet collaboratif. 
+Ce projet a été réalisé dans le cadre d'un projet étudiant de cinq jours à Polytech Sorbonne.
 
 ## Objectifs
 
@@ -21,8 +22,8 @@ MotoCruise utilise un mécanisme simple de came et ressort pour maintenir l'acc�
 
 ## Installation
 
-1. Téléchargez le fichier STL depuis la section [Téléchargements](https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements).
-2. Imprimez les pièces avec une imprimante 3D en utilisant du filament PLA (recommandé).
+1. Téléchargez le fichier STL depuis le dossier [Téléchargements](https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements).
+2. Imprimez les pièces avec une imprimante 3D en utilisant du filament PLA (recommandé). Nous avons utilisé pour ce projet une Cura Ultimaker 3.
 3. Suivez les instructions d'assemblage dans la section Instructions d'assemblage ci-dessous pour monter le régulateur sur votre moto.
 
 ## Instructions-d'assemblage
@@ -91,7 +92,7 @@ Ce projet est sous licence [MIT](LICENSE), ce qui permet une utilisation, modifi
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à nous contacter via [email](mailto:contact@example.com) ou à ouvrir une issue sur GitHub.
+Pour toute question ou suggestion, n'hésitez pas à nous contacter via [email](mailto:greg.mahonfr@gmail.com) ou à ouvrir une issue sur GitHub.
 
 ## Remerciements
 
@@ -105,7 +106,7 @@ Merci à tous les contributeurs et à la communauté de motards pour leur soutie
 
 ## Liens utiles
 
-- [Télécharger les fichiers STL](https://github.com/gregoiremahon/MotoCruise/blob/main/telechargements/MotoCruise_V04.stl)
+- [Télécharger les fichiers STL](https://raw.githubusercontent.com/gregoiremahon/MotoCruise/main/telechargements/MotoCruise_V04.stl)
 - [Accéder aux fichiers OnShape](https://cad.onshape.com/documents/cf4fc29ffd6a06213f58177e/w/e59d76d9d9155c883bdf8b41/e/d3f54cef81187506885571a0?renderMode=0&uiState=6675471501c11123e0862a01)
 - [Voir les instructions d'assemblage](#Instructions-d'assemblage)
 - [Contribuer au projet](#Contribution)
